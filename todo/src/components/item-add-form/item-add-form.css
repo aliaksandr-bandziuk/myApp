@@ -3,3 +3,7 @@
   display: flex;
   justify-content: end;
 }
+
+.item-add-form input {
+  margin-right: 3px;
+}
